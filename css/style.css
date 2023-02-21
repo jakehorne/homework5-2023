@@ -9,7 +9,7 @@ header{
     align-content: center;
     align-items: center;
 }
-.nav_link{
+.nav_links{
     display: flex;
     flex-direction: column;
 }
@@ -96,7 +96,6 @@ header{
         width: 100%;
     }
     .nav_links{
-        display: flex;
         flex-direction: row;
         justify-content: space-around;
     }

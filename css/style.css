@@ -90,7 +90,7 @@ header{
 @media print{
     body{
         font-family: Arial, Helvetica;
-        background-image: none;
+        background: #f1f1f1;
     }
     nav{
         width: 100%;
